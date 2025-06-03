@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datomcode&label=Profile%20views&color=0e75b6&style=flat" alt="datomcode" /> </p>
-# 👋 Hi there, I'm Enoch!
+ 👋 Hi there, I'm Enoch!
 
 Welcome to my GitHub profile! I'm a aspiring **Full-Stack Developer** (currently focused on the frontend), an **intermediate Graphic Designer**, and a tech enthusiast on a journey to build and contribute to impactful projects.
 
