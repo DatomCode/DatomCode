@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=datomcode&label=Profile%20views&color=0e75b6&style=flat" alt="datomcode" /> </p>
 # 👋 Hi there, I'm Enoch!
 
 Welcome to my GitHub profile! I'm a aspiring **Full-Stack Developer** (currently focused on the frontend), an **intermediate Graphic Designer**, and a tech enthusiast on a journey to build and contribute to impactful projects.
@@ -33,13 +34,9 @@ JavaScript · HTML · CSS · Javascript (basic)
 
 ---
 
-## 📈 GitHub Stats
-
----
-
 ## 📫 Let's Connect
 
-* 💬 Instagram: [@enoch_gbad]([https://instagram.com/enoch_gbad) – my networking and tech community page
+* 💬 Instagram: [@enoch_gbad](https://instagram.com/enoch_gbad) – my networking and tech community page
 * ✉️ Email: [enochgbadebo007@gmail.com](mailto:enochgbadebo007@gmail.com)
 
 Thanks for stopping by! Let's build something amazing together. 🌟
