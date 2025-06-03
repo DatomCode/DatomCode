@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a aspiring **Full-Stack Developer** (currentl
 ## 🛠️ Tech Stack
 
 **Languages:**
-JavaScript · HTML · CSS · Javascript (basic)
+HTML · CSS · Javascript (basic)
 
 ---
 
