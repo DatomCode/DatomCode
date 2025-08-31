@@ -41,7 +41,7 @@ HTML · CSS · PYTHON
 
 * 🧠 I love combining design and code to bring ideas to life.
 * 👨🏾‍💻 I enjoy working with students and helping others learn tech skills.
-* ☕ I’m currently designing a site for a coffee shop!
+* 🎮 I play games to relieve stress
 
 ---
 
