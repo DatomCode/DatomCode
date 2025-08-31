@@ -25,6 +25,7 @@ I’m a Junior Developer passionate about building reliable and impactful soluti
 
 **Languages:**
 HTML · CSS · PYTHON
+
 **Tools & Frameworks:**
 · Git & GitHub · VS Code
 
