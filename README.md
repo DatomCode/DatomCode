@@ -36,7 +36,7 @@ Currently focused on **Backend Development** as I work toward becoming a **Full-
 
 * ✉️ Email: [enochgbadebo007@gmail.com](mailto:enochgbadebo007@gmail.com)  
 * 🔗 LinkedIn: [Gbadebo Enoch](https://www.linkedin.com/in/gbadeboenoch/)  
-* 🐦 Twitter/X: [@YourHandleHere](#)  
+ 
 
 ---
 
