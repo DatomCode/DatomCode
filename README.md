@@ -3,9 +3,20 @@
 
 **Building and designing at the intersection of code and creativity.**
 
-Welcome to my GitHub profile! I'm an aspiring **Full-Stack Developer** (currently focused on the frontend), an **intermediate Graphic Designer**, and a tech enthusiast on a journey to build and contribute to impactful projects.
+Welcome to my GitHub profile! 
+👋 Hi, I’m Enoch
 
----
+I’m a Junior Developer passionate about building reliable and impactful solutions. Currently focused on Backend Development as I work toward becoming a Full-Stack Developer.
+
+🌱 About Me
+
+💻 Currently learning Backend Development
+
+🎨 Background in Graphic Design & Video Editing (creativity + code)
+
+🚀 Committed to continuous learning and growth
+
+🤝 Open to collaboration, mentorship, and opportunities
 
 ## 🚀 About Me
 
