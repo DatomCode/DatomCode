@@ -30,13 +30,7 @@ Currently focused on **Backend Development** as I work toward becoming a **Full-
 
 ---
 
-## 📂 Featured Projects  
 
-- 🔹 *[Project 1 Name](#)* – Short description of what it does  
-- 🔹 *[Project 2 Name](#)* – Short description of what it does  
-- 🔹 *[Project 3 Name](#)* – Short description of what it does  
-
----
 
 ## 📫 Let's Connect  
 
