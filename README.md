@@ -1,48 +1,59 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=datomcode&label=Profile%20views&color=0e75b6&style=flat" alt="datomcode" /> </p>
- # 👋 Hi there, I'm Enoch!
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=datomcode&label=Profile%20views&color=0e75b6&style=flat" alt="datomcode" /> 
+</p>
 
-Welcome to my GitHub profile! 
+# 👋 Hi there, I'm Enoch!  
 
-I’m a Junior Developer passionate about building reliable and impactful solutions. Currently focused on Backend Development as I work toward becoming a Full-Stack Developer.
+Welcome to my GitHub profile!  
 
-🌱 About Me
-
-## 🚀 About Me
-
-
-💻 Currently learning Backend Development
-
-🎨 Background in Graphic Design & Video Editing (creativity + code)
-
-🚀 Committed to continuous learning and growth
-
-🤝 Open to collaboration, mentorship, and opportunities
-
+I’m a **Junior Web Developer** passionate about building reliable and impactful solutions.  
+Currently focused on **Backend Development** as I work toward becoming a **Full-Stack Developer**.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me  
 
-**Languages:**
-HTML · CSS · PYTHON
-
-**Tools & Frameworks:**
-· Git & GitHub · VS Code
-
----
-
-## 📫 Let's Connect
-* ✉️ Email: [enochgbadebo007@gmail.com](mailto:enochgbadebo007@gmail.com)
-* ✉️ LinkedIn: [Gbadebo Enoch](https://www.linkedin.com/in/gbadeboenoch/)
+- 💻 Currently learning **Backend Development**  
+- 🎨 Background in **Graphic Design & Video Editing** (creativity + code)  
+- 🚀 Committed to continuous learning and growth  
+- 🤝 Open to collaboration, mentorship, and opportunities  
 
 ---
 
-## ✨ Fun Facts
+## 🛠️ Tech Stack  
 
-* 🧠 I love combining design and code to bring ideas to life.
-* 👨🏾‍💻 I enjoy working with students and helping others learn tech skills.
-* 🎮 I play games to relieve stress
+**Languages:**  
+`HTML` · `CSS` · `Python`  
+
+**Tools & Frameworks:**  
+`Git & GitHub` · `VS Code`  
 
 ---
 
-Thanks for stopping by! Let's build something amazing together. 🌟
+## 📂 Featured Projects  
+
+- 🔹 *[Project 1 Name](#)* – Short description of what it does  
+- 🔹 *[Project 2 Name](#)* – Short description of what it does  
+- 🔹 *[Project 3 Name](#)* – Short description of what it does  
+
+---
+
+## 📫 Let's Connect  
+
+* ✉️ Email: [enochgbadebo007@gmail.com](mailto:enochgbadebo007@gmail.com)  
+* 🔗 LinkedIn: [Gbadebo Enoch](https://www.linkedin.com/in/gbadeboenoch/)  
+* 🐦 Twitter/X: [@YourHandleHere](#)  
+
+---
+
+## ✨ Fun Facts  
+
+- 🧠 I love combining design and code to bring ideas to life.  
+- 👨🏾‍💻 I enjoy working with students and helping others learn tech skills.  
+- 🎮 I play games to relieve stress.  
+
+---
+
+⭐ Thanks for stopping by! Let’s build something amazing together 🌟  
+
+
