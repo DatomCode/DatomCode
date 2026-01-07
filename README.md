@@ -23,10 +23,10 @@ Currently focused on **Backend Development** as I work toward becoming a **Full-
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-`HTML` · `CSS` · `Python`  
+`HTML` · `CSS` · `Python` . `Django`  
 
 **Tools & Frameworks:**  
-`Git & GitHub` · `VS Code`  
+`Git & GitHub` . `Django Rest Framework` · `VS Code`  
 
 ---
 
