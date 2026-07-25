@@ -3,51 +3,31 @@
 </p>
 
 # 👋 Hi there, I'm Enoch!  
-
-Welcome to my GitHub profile!  
-
-I’m a **Junior Web Developer** passionate about building reliable and impactful solutions.  
-Currently focused on **Backend Development** as I work toward becoming a **Full-Stack Developer**.  
-
----
+Backend developer building production APIs with Python and Django.
 
 ## 🚀 About Me  
-
-- 💻 Currently learning **Backend Development**  
-- 🎨 Background in **Graphic Design & Video Editing** (creativity + code)  
+- 💻 Backend development — Python, Django, Django REST Framework  
 - 🚀 Committed to continuous learning and growth  
-- 🤝 Open to collaboration, mentorship, and opportunities  
-
 ---
-
 ## 🛠️ Tech Stack  
+**Languages & Frameworks:**  
+`Python` · `Django` · `Django Rest Framework` · `HTML` · `CSS`  
 
-**Languages:**  
-`HTML` · `CSS` · `Python` . `Django`  
+**Databases & Infra:**  
+`PostgreSQL` · `Redis` · `Celery`  
 
-**Tools & Frameworks:**  
-`Git & GitHub` . `Django Rest Framework` · `VS Code`  
+**Tools:**  
+`Git & GitHub` · `Docker` · `JWT` · `VS Code`  
 
+**Currently exploring:** `FastAPI`  
 ---
-
-
-
 ## 📫 Let's Connect  
-
 * ✉️ Email: [enochgbadebo007@gmail.com](mailto:enochgbadebo007@gmail.com)  
 * 🔗 LinkedIn: [Gbadebo Enoch](https://www.linkedin.com/in/gbadeboenoch/)  
  
-
 ---
-
-## ✨ Fun Facts  
-
-- 🧠 I love combining design and code to bring ideas to life.  
-- 👨🏾‍💻 I enjoy working with students and helping others learn tech skills.  
+## ✨ Fun Facts
+- 👨🏾‍💻 I like being around people learning tech and picking things up alongside them.  
 - 🎮 I play games to relieve stress.  
-
 ---
-
-⭐ Thanks for stopping by! Let’s build something amazing together 🌟  
-
-
+⭐ Thanks for stopping by! Let's build something amazing together 🌟
