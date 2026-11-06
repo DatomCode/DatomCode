@@ -31,4 +31,8 @@ Backend developer building production APIs with Python and Django.
 - 🎮 I play games to relieve stress.  
 ---
 ⭐ Thanks for stopping by! Let's build something amazing together 🌟
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DatomCode&" alt="DatomCode" /></p>
+<p>
+  <img align="center"
+    src="https://streak-stats.demolab.com?user=datomcode&timezone=Africa/Lagos"
+    alt="GitHub Streak" />
+</p>
